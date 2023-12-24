@@ -1,7 +1,7 @@
-- Hi, I’m @iamfaruk01
+- Hi, I’m Faruk
 - I'm currently pursuing B. Tech. in CSE
 - I’m interested in Android App Development
-- I am skilled in C, C++
+- I am skilled in C, C++ and learning Java
 -  Reach me out at farukkhan1945@gmail.com
 
 <!---
